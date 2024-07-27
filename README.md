@@ -1,0 +1,1 @@
+Só lembrando que o index.html tem que estar junto com o .exe se não ele nao funciona ou você pode alterar isso colocando o index.html dentro de um raw em qualquer site de upload como pastebin, gihub etc... mas ai envolve fazer um request usando cpr ou curl entre outras libs! lembrando que só é pra explanar esse metodo merda que o .exe fica no startup!
