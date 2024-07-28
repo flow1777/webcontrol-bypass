@@ -15,7 +15,9 @@ Só lembrando que o index.html tem que estar junto com o .exe se não ele nao fu
   ![image](https://github.com/user-attachments/assets/d9173844-34d0-489f-a01b-800bc6f54549)
   
   ![image](https://github.com/user-attachments/assets/53f226b6-5a92-4777-94aa-873bb6c30460)
-  
+
+Para qualquer dúvida, entre em contato pelo e-mail: tatianedelourdes@gmail.com ou envie uma carta para:
+Av. Protásio Alves, 8201, AP 306, Torre 7, Morro Santana.
 
 
 
