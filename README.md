@@ -1,3 +1,5 @@
+- [Video explicando os fatos](https://youtu.be/UeL82BUUGNQ)
+
 Só lembrando que o index.html tem que estar junto com o .exe se não ele nao funciona ou você pode alterar isso colocando o index.html dentro de um raw em qualquer site de upload como pastebin, gihub etc... mas ai envolve fazer um request usando cpr ou curl entre outras libs! lembrando que só é pra explanar esse metodo merda que o .exe fica no startup! Não dou suporte pra mexer em codigo só vazei e sai correndo tmj Luquinhas, espero que meus 700 reais façam parte do tratamento da tua doença!
 
 - Dono da 777 bypass:
