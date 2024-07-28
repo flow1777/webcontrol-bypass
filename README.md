@@ -3,8 +3,11 @@ Só lembrando que o index.html tem que estar junto com o .exe se não ele nao fu
 - Dono da 777 bypass:
 
   ![image](https://github.com/user-attachments/assets/03476102-7c8f-49a5-937c-24fe328195a8)
+
   ![image](https://github.com/user-attachments/assets/08d87df7-74a7-4221-a1da-3e45813db94d)
+  
   ![image](https://github.com/user-attachments/assets/d9173844-34d0-489f-a01b-800bc6f54549)
+  
   ![image](https://github.com/user-attachments/assets/53f226b6-5a92-4777-94aa-873bb6c30460)
   
 
